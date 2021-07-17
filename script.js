@@ -57,7 +57,7 @@ prev.addEventListener('click', () => {
         count = 0
         next.click()
     } else {
-        count = 2
+        count = 1
         next.click()
     }
 })

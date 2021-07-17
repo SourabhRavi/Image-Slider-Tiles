@@ -1,0 +1,23 @@
+#hero {
+    margin: 0 auto;
+    max-width: 50vw;
+}
+
+img {
+    max-width: 100%;
+    padding: 10px;
+}
+
+body {
+    background: #7152B4;
+}
+
+img.one {
+    object-fit: cover;
+    height: 441px;
+}
+
+.btn-wrap {
+    max-width: max-content;
+    margin: 0 auto;
+}
